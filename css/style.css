@@ -1,0 +1,59 @@
+#form {
+	padding-left: 20px;
+	padding-top: 15px;
+	background-color: white;
+	background-image: url(imagenes/1.jpg);
+	border-color: #76B3FF;
+	border: 20px;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+#Titulo {
+	color:white;
+	text-decoration-line: overline;
+	border-radius: 0px;
+	font-size: 25px;
+	text-align: left;
+	padding-right: 40PX;
+	font-weight: bold;
+}
+
+#preg {
+	background-color: rgba(255, 255, 255,0.9); 
+	padding: 10px; 
+	margin-right: 20px; 
+	border-radius: 10px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+#Enombre {
+	border-radius: 5px;
+	font-size: 15px;
+	border-color: white;
+}
+
+#Enombre:hover {
+	border-color: black;
+	transition-duration: 0.2s;
+}
+
+#Evalif {
+	font-size: 15px;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: white;
+}
+
+#Evalif:hover {
+	border-color: black;
+	transition-duration: 0.2s;
+}
+
+#Modelo {
+	font-size: 15px;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: white;
+}
